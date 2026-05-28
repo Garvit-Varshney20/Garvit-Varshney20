@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-‎ 💻 Full-Stack Web Developer experienced with the MERN stack (MongoDB, Express, React, Node.js).<br><br>☁️ Familiar with AWS Cloud Services for deploying and managing applications.<br><br>🐍 Currently learning backend development with Django and Flask.<br><br>🤖 Exploring Machine Learning to expand my technical skills.<br><br>🚀 Passionate about learning new technologies and building real-world projects.
+‎ 💻  Web Developer experienced with MongoDB, Express, Node.js.<br><br>☁️ Familiar with AWS Cloud Services for deploying and managing applications.<br><br>🛠 Currently learning backend development with Node.js and Express.<br><br>🤖 Exploring Machine Learning to expand my technical skills.<br><br>🚀 Passionate about learning new technologies and building real-world projects.
 
 
 ## 🌐 Socials:
@@ -13,11 +13,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Garvit-Varshney20&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Garvit-Varshney20&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Garvit-Varshney20&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Garvit-Varshney20&limit=5&theme=default&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Garvit-Varshney20&icon=0&color=0)](https://visitcount.itsvg.in)
